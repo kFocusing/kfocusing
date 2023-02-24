@@ -6,7 +6,7 @@
     <img align="center" src="https://img.shields.io/github/followers/kfocusing" alt="GitHub Followers" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/kfocusing/github-readme-stats">
-    <img align="center" src="https://komarev.com/ghpvc/?username=your-github-username" alt="Profile Views" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=kfocusing" alt="Profile Views" />
   </a>
   <br/><br/>
   <a href="https://github.com/kfocusing/github-readme-stats">
