@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Danil 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">A young Software Engineer from Ukraine 🇺🇦.</h3>
+<h3 align="center">A young Software Engineer from Ukraine 🇺🇦</h3>
 <div align="center">
   <a href="https://github.com/kfocusing">
     <img align="center" src="https://img.shields.io/github/followers/kfocusing" alt="GitHub Followers" />
